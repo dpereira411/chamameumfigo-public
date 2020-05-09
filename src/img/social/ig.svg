@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="26px" height="26px" viewBox="0 0 26 26" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 61.2 (89653) - https://sketch.com -->
+    <title>ig</title>
+    <desc>Created with Sketch.</desc>
+    <g id="ig" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linejoin="round">
+        <g id="Group-4" transform="translate(4.000000, 4.000000)" stroke="#1D1D1D">
+            <polygon id="Stroke-1" stroke-width="2" stroke-linecap="round" points="8.99999999e-05 17.8218 17.82279 17.8218 17.82279 -1.05160325e-12 8.99999999e-05 -1.05160325e-12"></polygon>
+            <line x1="2.61568545e-13" y1="6.48162" x2="4.2615" y2="6.48162" id="Stroke-3" stroke-width="2"></line>
+            <line x1="13.56066" y1="6.48162" x2="17.82216" y2="6.48162" id="Stroke-4" stroke-width="2"></line>
+            <path d="M14.25897,8.91054 C14.25897,11.86434 11.86497,14.25834 8.91117,14.25834 C5.95737,14.25834 3.56337,11.86434 3.56337,8.91054 C3.56337,5.95764 5.95737,3.56274 8.91117,3.56274 C11.86497,3.56274 14.25897,5.95764 14.25897,8.91054 Z" id="Stroke-5" stroke-width="2"></path>
+            <path d="M10.41723,8.91054 C10.41723,9.74214 9.74313,10.41624 8.91153,10.41624 C8.07903,10.41624 7.40493,9.74214 7.40493,8.91054 C7.40493,8.07894 8.07903,7.40484 8.91153,7.40484 C9.74313,7.40484 10.41723,8.07894 10.41723,8.91054 Z" id="Stroke-6"></path>
+        </g>
+    </g>
+</svg>
